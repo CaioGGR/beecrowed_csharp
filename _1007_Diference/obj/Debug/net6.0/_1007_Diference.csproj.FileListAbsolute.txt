@@ -1,0 +1,15 @@
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/bin/Debug/net6.0/_1007_Diference
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/bin/Debug/net6.0/_1007_Diference.deps.json
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/bin/Debug/net6.0/_1007_Diference.runtimeconfig.json
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/bin/Debug/net6.0/_1007_Diference.dll
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/bin/Debug/net6.0/_1007_Diference.pdb
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/_1007_Diference.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/_1007_Diference.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/_1007_Diference.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/_1007_Diference.AssemblyInfo.cs
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/_1007_Diference.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/_1007_Diference.dll
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/refint/_1007_Diference.dll
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/_1007_Diference.pdb
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/_1007_Diference.genruntimeconfig.cache
+/home/caiobastudy/Desktop/beecrowed/_1007_Diference/obj/Debug/net6.0/ref/_1007_Diference.dll

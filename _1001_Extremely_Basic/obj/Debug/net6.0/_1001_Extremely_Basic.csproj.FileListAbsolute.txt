@@ -1,0 +1,15 @@
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/bin/Debug/net6.0/_1001_Extremely_Basic
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/bin/Debug/net6.0/_1001_Extremely_Basic.deps.json
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/bin/Debug/net6.0/_1001_Extremely_Basic.runtimeconfig.json
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/bin/Debug/net6.0/_1001_Extremely_Basic.dll
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/bin/Debug/net6.0/_1001_Extremely_Basic.pdb
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/_1001_Extremely_Basic.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/_1001_Extremely_Basic.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/_1001_Extremely_Basic.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/_1001_Extremely_Basic.AssemblyInfo.cs
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/_1001_Extremely_Basic.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/_1001_Extremely_Basic.dll
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/refint/_1001_Extremely_Basic.dll
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/_1001_Extremely_Basic.pdb
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/_1001_Extremely_Basic.genruntimeconfig.cache
+/home/caiobastudy/Desktop/beecrowed/_1001_Extremely_Basic/obj/Debug/net6.0/ref/_1001_Extremely_Basic.dll

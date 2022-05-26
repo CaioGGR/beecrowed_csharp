@@ -1,0 +1,15 @@
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/_1006_Average_2.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/_1006_Average_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/_1006_Average_2.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/_1006_Average_2.AssemblyInfo.cs
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/_1006_Average_2.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/bin/Debug/net6.0/_1006_Average_2
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/bin/Debug/net6.0/_1006_Average_2.deps.json
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/bin/Debug/net6.0/_1006_Average_2.runtimeconfig.json
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/bin/Debug/net6.0/_1006_Average_2.dll
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/bin/Debug/net6.0/_1006_Average_2.pdb
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/_1006_Average_2.dll
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/refint/_1006_Average_2.dll
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/_1006_Average_2.pdb
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/_1006_Average_2.genruntimeconfig.cache
+/home/caiobastudy/Desktop/beecrowed/_1006_Average_2/obj/Debug/net6.0/ref/_1006_Average_2.dll

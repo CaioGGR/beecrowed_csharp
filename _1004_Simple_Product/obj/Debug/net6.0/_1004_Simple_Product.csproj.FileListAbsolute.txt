@@ -1,0 +1,15 @@
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/bin/Debug/net6.0/_1004_Simple_Product
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/bin/Debug/net6.0/_1004_Simple_Product.deps.json
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/bin/Debug/net6.0/_1004_Simple_Product.runtimeconfig.json
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/bin/Debug/net6.0/_1004_Simple_Product.dll
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/bin/Debug/net6.0/_1004_Simple_Product.pdb
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/_1004_Simple_Product.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/_1004_Simple_Product.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/_1004_Simple_Product.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/_1004_Simple_Product.AssemblyInfo.cs
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/_1004_Simple_Product.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/_1004_Simple_Product.dll
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/refint/_1004_Simple_Product.dll
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/_1004_Simple_Product.pdb
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/_1004_Simple_Product.genruntimeconfig.cache
+/home/caiobastudy/Desktop/beecrowed/_1004_Simple_Product/obj/Debug/net6.0/ref/_1004_Simple_Product.dll

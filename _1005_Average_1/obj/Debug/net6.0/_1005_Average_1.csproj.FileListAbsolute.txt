@@ -1,0 +1,15 @@
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/bin/Debug/net6.0/_1005_Average_1
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/bin/Debug/net6.0/_1005_Average_1.deps.json
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/bin/Debug/net6.0/_1005_Average_1.runtimeconfig.json
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/bin/Debug/net6.0/_1005_Average_1.dll
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/bin/Debug/net6.0/_1005_Average_1.pdb
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/_1005_Average_1.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/_1005_Average_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/_1005_Average_1.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/_1005_Average_1.AssemblyInfo.cs
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/_1005_Average_1.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/_1005_Average_1.dll
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/refint/_1005_Average_1.dll
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/_1005_Average_1.pdb
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/_1005_Average_1.genruntimeconfig.cache
+/home/caiobastudy/Desktop/beecrowed/_1005_Average_1/obj/Debug/net6.0/ref/_1005_Average_1.dll

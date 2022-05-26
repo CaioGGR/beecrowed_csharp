@@ -1,0 +1,15 @@
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/bin/Debug/net6.0/_1008_Salary
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/bin/Debug/net6.0/_1008_Salary.deps.json
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/bin/Debug/net6.0/_1008_Salary.runtimeconfig.json
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/bin/Debug/net6.0/_1008_Salary.dll
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/bin/Debug/net6.0/_1008_Salary.pdb
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/_1008_Salary.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/_1008_Salary.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/_1008_Salary.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/_1008_Salary.AssemblyInfo.cs
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/_1008_Salary.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/_1008_Salary.dll
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/refint/_1008_Salary.dll
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/_1008_Salary.pdb
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/_1008_Salary.genruntimeconfig.cache
+/home/caiobastudy/Desktop/beecrowed/_1008_Salary/obj/Debug/net6.0/ref/_1008_Salary.dll

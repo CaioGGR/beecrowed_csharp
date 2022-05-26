@@ -1,0 +1,15 @@
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/bin/Debug/net6.0/_1003_Simple_Sum
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/bin/Debug/net6.0/_1003_Simple_Sum.deps.json
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/bin/Debug/net6.0/_1003_Simple_Sum.runtimeconfig.json
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/bin/Debug/net6.0/_1003_Simple_Sum.dll
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/bin/Debug/net6.0/_1003_Simple_Sum.pdb
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/_1003_Simple_Sum.csproj.AssemblyReference.cache
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/_1003_Simple_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/_1003_Simple_Sum.AssemblyInfoInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/_1003_Simple_Sum.AssemblyInfo.cs
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/_1003_Simple_Sum.csproj.CoreCompileInputs.cache
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/_1003_Simple_Sum.dll
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/refint/_1003_Simple_Sum.dll
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/_1003_Simple_Sum.pdb
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/_1003_Simple_Sum.genruntimeconfig.cache
+/home/caiobastudy/Desktop/beecrowed/_1003_Simple_Sum/obj/Debug/net6.0/ref/_1003_Simple_Sum.dll
